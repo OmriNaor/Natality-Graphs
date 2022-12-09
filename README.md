@@ -24,3 +24,17 @@ The program reads data from a CSV file using Java's File and BufferedReader. The
 Finally, creates a dynamic JPanel and two different types of graphs and displays one of them, according to the user's input. 
 
 The algorithm supports and displays extra data that the user can add by using the JButtons.
+
+## Examples
+
+* Pie chart:
+
+![image](https://user-images.githubusercontent.com/106623821/206693822-c07acbd8-78de-427d-a84d-e9d20c24b772.png)
+
+* Column chart:
+
+![image](https://user-images.githubusercontent.com/106623821/206694254-992dd657-395c-4e46-9396-0da782da3689.png)
+
+
+
+
