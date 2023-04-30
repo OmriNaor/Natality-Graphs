@@ -1,8 +1,16 @@
 # Java Project: Natality-Graphs
 
+## Introduction
+
+This project is an application that reads natality data from a CSV file and displays it using two different types of graphs (pie chart and column chart). The purpose of this project is to visualize natality data and perform various calculations for better understanding and analysis.
+
 ## About
 
 Reads natality data from a CSV file and display it, along with different calculations, using two different types of graphs.
+
+## Prerequisites
+
+- Java Development Kit (JDK) version 8 or later
 
 ## Usage
 
@@ -25,6 +33,15 @@ Finally, creates a dynamic JPanel and two different types of graphs and displays
 
 The algorithm supports and displays extra data that the user can add by using the JButtons.
 
+## Getting Started
+
+To compile and run the project, follow these steps:
+
+1. Clone the repository or download the source code.
+2. Import the project into your favorite Java IDE (e.g., Eclipse, IntelliJ IDEA).
+3. Ensure the required libraries and dependencies are properly set up.
+4. Compile and run the project from your IDE.
+
 ## Examples
 
 * Pie chart:
@@ -34,7 +51,3 @@ The algorithm supports and displays extra data that the user can add by using th
 * Column chart:
 
 ![image](https://user-images.githubusercontent.com/106623821/206694254-992dd657-395c-4e46-9396-0da782da3689.png)
-
-
-
-
